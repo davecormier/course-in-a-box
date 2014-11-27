@@ -1,6 +1,6 @@
 # basic configuration
 baseurl:/course-in-a-box
-markdown: redcarpet
+markdown:redcarpet
 permalink: /:categories/:title/
 
 
