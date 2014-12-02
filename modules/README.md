@@ -23,7 +23,5 @@ modules/references/_posts/2000-01-05-resources.markdown
 modules/feedback/_posts/2000-01-01-concepts.markdown
 modules/feedback/_posts/2000-01-02-projects.markdown
 modules/feedback/_posts/2000-01-03-resources.markdown
-modules/content/_posts/2000-01-01-concepts.markdown
-modules/content/_posts/2000-01-02-projects.markdown
-modules/content/_posts/2000-01-03-resources.markdown
+
 ```
